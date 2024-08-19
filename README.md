@@ -1,0 +1,1 @@
+# go-dependency-injection-example
